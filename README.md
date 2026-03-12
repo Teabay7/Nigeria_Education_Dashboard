@@ -91,22 +91,22 @@ nigeria-education-dashboard/
 ## 📸 Dashboard Preview
 
 ### Page 1 — Enrolment Trends
-*[Insert screenshot here]*
+*[[Page 1](https://github.com/Teabay7/Nigeria_Education_Dashboard/blob/main/Page_1.png)]*
 
 ### Page 2 — Gender Gap Analysis
-*[Insert screenshot here]*
+*[[Page 2](https://github.com/Teabay7/Nigeria_Education_Dashboard/blob/main/Page_2.png)]*
 
 ### Page 3 — Out of School & Completion
-*[Insert screenshot here]*
+*[[Page 3](https://github.com/Teabay7/Nigeria_Education_Dashboard/blob/main/Page_3.png)]*
 
 ### Page 4 — Teacher Supply
-*[Insert screenshot here]*
+*[[Page 4](https://github.com/Teabay7/Nigeria_Education_Dashboard/blob/main/Page_4.png)]*
 
 ### Page 5 — Funding & Literacy
-*[Insert screenshot here]*
+*[[Page 5](https://github.com/Teabay7/Nigeria_Education_Dashboard/blob/main/Page_5.png)]*
 
 ### Page 6 — Key Findings & Insights
-*[Insert screenshot here]*
+*[[Page 6](https://github.com/Teabay7/Nigeria_Education_Dashboard/blob/main/Page_6.png)]*
 
 ---
 
